@@ -1,7 +1,8 @@
 # QA-Answering
 
 So, I have used this dataset : https://www.kaggle.com/datasets/praneshmukhopadhyay/amazon-questionanswer-dataset?select=single_qna.csv
-
+My Finetuned Model (1000 dataset trained ) :https://drive.google.com/drive/folders/1xpFqsN6r9PjTC7j0gvGdbtUm_Kgreyxj?usp=sharing  
+My 
 Now, this dataset has 3 CSV files namely, 
 
 1) Multi_answers.csv
@@ -36,3 +37,10 @@ Now, in order to make sure that anoamly is solved, I have utilized the answer as
 
 
 I know My approach is not really perfect and it has certain flaws in it , I am open to suggestion and corrections from your side.
+
+
+Note: Sample question for testing:
+
+a) Question : WHat is the Return Policy ?
+
+b) Context: Our store offers a 30-day return policy for all items purchased, allowing you to return products within 30 days of receipt for a full refund or exchange if you are not satisfied. To initiate a return, ensure the product is unused, undamaged, and in its original packaging with all tags, manuals, and accessories included. Returns without the original receipt or proof of purchase will not be accepted. For online purchases, you can request a return label through your account dashboard or by contacting our customer service team, though shipping fees are non-refundable unless the return is due to a manufacturing defect or order error. Items such as perishable goods, customized items, final sale products, gift cards, downloadable software, and personal care items are exempt from this policy. Defective or damaged products must be reported within 7 days of delivery with photographic evidence for approval of a replacement or refund at no additional cost. In-store returns must be made at the original store location with a receipt, and refunds will be processed to the original payment method within 5-7 business days after the returned item is inspected. Exchanges will be shipped once the original item is received and verified, and gift returns can be credited as store credit instead of a refund to the original payment method. Our customer service team is available 24/7 to assist with any questions or concerns, ensuring your experience is as seamless as possible.
