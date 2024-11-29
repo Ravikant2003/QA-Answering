@@ -2,7 +2,7 @@
 
 So, I have used this dataset : https://www.kaggle.com/datasets/praneshmukhopadhyay/amazon-questionanswer-dataset?select=single_qna.csv
 My Finetuned Model (1000 dataset trained ) :https://drive.google.com/drive/folders/1xpFqsN6r9PjTC7j0gvGdbtUm_Kgreyxj?usp=sharing  
-My 
+MY Video for this project's working: https://youtu.be/3aLQu_h9INw
 Now, this dataset has 3 CSV files namely, 
 
 1) Multi_answers.csv
