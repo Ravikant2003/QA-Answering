@@ -5,9 +5,9 @@ My Finetuned Model (1000 dataset trained ) :https://drive.google.com/drive/folde
 MY Video for this project's working: https://youtu.be/3aLQu_h9INw
 Now, this dataset has 3 CSV files namely, 
 
-1) Multi_answers.csv
-2) multi_questions.csv
-3) single_question.csv
+a) Multi_answers.csv
+b) multi_questions.csv
+c) single_question.csv
 
    Now I have combined all the three csv files and have talen the top 1000/50000 data from the dataset for fine tuning my HuggingPhase model.
 
