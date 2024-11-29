@@ -1,0 +1,5 @@
+streamlit==1.40.2
+transformers==4.46.3
+torch==2.5.1
+tokenizers==0.20.3
+typing_extensions==4.12.2
