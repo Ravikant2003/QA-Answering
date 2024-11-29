@@ -3,13 +3,15 @@
 So, I have used this dataset : https://www.kaggle.com/datasets/praneshmukhopadhyay/amazon-questionanswer-dataset?select=single_qna.csv
 My Finetuned Model (1000 dataset trained ) :https://drive.google.com/drive/folders/1xpFqsN6r9PjTC7j0gvGdbtUm_Kgreyxj?usp=sharing  
 MY Video for this project's working: https://youtu.be/3aLQu_h9INw
+
+Use the requirements.txt file to install all the required packages.
 Now, this dataset has 3 CSV files namely, 
 
 a) Multi_answers.csv
 b) multi_questions.csv
 c) single_question.csv
 
-   Now I have combined all the three csv files and have talen the top 1000/50000 data from the dataset for fine tuning my HuggingPhase model.
+   Now I have combined all the three csv files and have talen the top 1000/40000 data from the dataset for fine tuning my HuggingPhase model.
 
    I have used the T-5 small model from huggingphase to fine tun eit to my custom dataset.
 
