@@ -21,7 +21,7 @@ c) single_question.csv
 
    The User Interface has been built using Streamlit and the credentials of the prime and non prime users are stored in the form of Python Dictonary.  
 
-   Some problems which i faced in making this project and would still be visible would be:
+   Some problems which i faced in making this project and would still be visible are:
 
 1) The dataset i am using doesnt have a fixed defined context, In general when T-5 small model is used it generally utilizes three inputs: 1) Input text : Which is a combination of question and context 
                                                                                                                                              2) Output Text: Which has the answer in it
